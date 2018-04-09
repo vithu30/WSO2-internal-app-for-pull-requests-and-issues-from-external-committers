@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="External_contributions:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="contribution_from_outsiders.war">
+      <element id="artifact" artifact-name="External_contributions:war exploded" />
+    </root>
+  </artifact>
+</component>

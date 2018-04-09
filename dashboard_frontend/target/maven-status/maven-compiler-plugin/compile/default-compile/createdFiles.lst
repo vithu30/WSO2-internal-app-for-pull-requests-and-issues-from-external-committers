@@ -1,0 +1,7 @@
+org/wso2/external_contributions/serverlets/PullRequests.class
+org/wso2/external_contributions/httpClient/PropertyReader.class
+org/wso2/external_contributions/serverlets/SummaryOfPullRequests.class
+org/wso2/external_contributions/filters/JWTAction.class
+org/wso2/external_contributions/serverlets/SummaryOfIssues.class
+org/wso2/external_contributions/serverlets/Issues.class
+org/wso2/external_contributions/httpClient/HttpHandler.class
